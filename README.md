@@ -80,6 +80,16 @@ as part of the project's publication lineage.
   Continuity                                                            across a person's lived
   Intelligence**                                                        experiences over time
 
+  **LGT-CMP-001 ---       [v1.0.0](publications/LGT-CMP-001/v1.0.0/)    Companion relationship
+  Companion Before Oracle**                                             formation, relational
+                                                                        continuity, familiarity,
+                                                                        adaptation, member
+                                                                        agency, anti-coercion,
+                                                                        contextual permission,
+                                                                        failure and recovery,
+                                                                        portability, reset,
+                                                                        and termination
+
   **LGT-OBS-001 ---       [v1.0.0](publications/LGT-OBS-001/v1.0.0/)    Observation boundaries,
   Accountable                                                           provenance,
   Observation**                                                         uncertainty,
@@ -181,6 +191,7 @@ living-guide-technology/
 │   │   └── v1.2.0/
 │   ├── LGT-ARCH-001/v1.0.0/
 │   ├── LGT-CIN-001/v1.0.0/
+│   ├── LGT-CMP-001/v1.0.0/
 │   ├── LGT-OBS-001/v1.0.0/
 │   ├── LGT-EVD-001/v1.0.0/
 │   ├── LGT-MEM-001/v1.0.0/
@@ -200,6 +211,11 @@ For system architecture and implementation boundaries, begin with
 **LGT-ARCH-001**.
 
 For continuity across lived experience, continue with **LGT-CIN-001**.
+
+For the companion relationship layer—including formation, relational
+continuity, familiarity, adaptation, agency, permission, failure and
+recovery, portability, reset, and termination—continue with
+**LGT-CMP-001**.
 
 For the observation-to-understanding pipeline, **LGT-OBS-001 →
 LGT-EVD-001 → LGT-MEM-001 → LGT-MIR-001** follows the progression from
@@ -236,8 +252,8 @@ merely because another version can be created.**
 The repository currently contains the foundational LGT publication
 lineage through **v1.2.0**, the first stable **LGT Reference
 Architecture v1.0.0**, and specialized v1.0.0 publications for
-Continuity Intelligence, Accountable Observation, Evidence Architecture,
-Memory Architecture, and Member-Facing Reflection.
+Continuity Intelligence, Companion Before Oracle, Accountable Observation,
+Evidence Architecture, Memory Architecture, and Member-Facing Reflection.
 
 Further evolution should occur through explicit versioned publications
 and repository history rather than modification of already published
