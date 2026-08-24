@@ -60,9 +60,6 @@ observation and interpretation.
   Technology**                                                 framework evolution
   ------------------------------------------------------------------------------------
 
-The original v1.0.0 Foundations artifacts remain at the repository root
-as part of the project's publication lineage.
-
 ### Normative Architecture Publications
 
   ---------------------------------------------------------------------------------------------
@@ -196,12 +193,6 @@ living-guide-technology/
 │   ├── LGT-EVD-001/v1.0.0/
 │   ├── LGT-MEM-001/v1.0.0/
 │   └── LGT-MIR-001/v1.0.0/
-├── LGT-CONSTITUTION.md
-├── LGT-SPEC-v1.0.0.md
-├── LGT-SPEC-v1.0.0.pdf
-├── LGT-SPEC-v1.0.0.docx
-├── FOUNDATIONAL_ALIGNMENT.md
-├── DECISIONS.md
 └── README.md
 ```
 
@@ -249,11 +240,11 @@ merely because another version can be created.**
 
 ## Project Status
 
-The repository currently contains the foundational LGT publication
-lineage through **v1.2.0**, the first stable **LGT Reference
-Architecture v1.0.0**, and specialized v1.0.0 publications for
-Continuity Intelligence, Companion Before Oracle, Accountable Observation,
-Evidence Architecture, Memory Architecture, and Member-Facing Reflection.
+The repository currently contains the versioned LGT publication lineage
+through **v1.2.0**, the first stable **LGT Reference Architecture v1.0.0**,
+and specialized v1.0.0 publications for Continuity Intelligence,
+Companion Before Oracle, Accountable Observation, Evidence Architecture,
+Memory Architecture, and Member-Facing Reflection.
 
 Further evolution should occur through explicit versioned publications
 and repository history rather than modification of already published
